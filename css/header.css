@@ -1,0 +1,21 @@
+header  h1{
+  font-style: italic;
+}
+.logo img{
+  float: left;
+  width: 4.87cm;
+  height: 4.59cm;
+}
+.links{
+  float: right;
+}
+nav ul li {
+display: inline-block;
+}
+nav ul li a{
+
+  text-transform: uppercase;
+}
+.social{
+
+}
